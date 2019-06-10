@@ -1,2 +1,2 @@
 # Planificacion
-Planificaion en Inteligencia Artificial
+Planificación en Inteligencia Artificial
